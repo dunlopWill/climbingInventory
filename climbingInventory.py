@@ -1,4 +1,4 @@
-# climbingInventory.py
+# Climbing Inventory
 
 # The function displayInventory() takes a dictionary of 'inventory'.
 # The function prints a list of the inventory in the format "number of items x item".
